@@ -1,3 +1,6 @@
+
+
+
 # Global Literacy Rate in the 90s
 
 ## Literacy Rates Per Year From 1990-1999 by Sex and Region
@@ -10,7 +13,7 @@ Via the world bank website, I first selected what topic of data I wanted (agricu
 
 ### Below are screenshots of what the process of selecting what data I wanted was like:
 
-<img alt="Varieties of Database Offered" src="databasevariety.png" width= 300px/> <img alt="select date tool" src="dates.png" width= 300px/> <img alt="topic options" src="ed topic options big.png" width= 300px/> <img alt="topic options" src="education topic options.png" width= 300px/> <img alt="europe options" src="manyeurope.png" width= 300px/> 
+<img alt="Varieties of Database Offered" src="databasevariety.png" width= 600px/> <img alt="select date tool" src="dates.png" width= 600px/> <img alt="topic options" src="ed topic options big.png" width= 600px/> <img alt="topic options" src="education topic options.png" width= 600px/> <img alt="europe options" src="manyeurope.png" width= 600px/> 
 
 I went through each region’s data set, looking through the values to make sure there were no wild outliers. This was really easy to do manually using the World Bank Data tools, as it automatically produced a line chart of literacy rate over the years for each separate region. 
 
@@ -40,7 +43,7 @@ In order to produce visualizations, I had to bring the data back into openrefine
 
 ### Examples of how I used OpenRefine to pare down the data:
 
-<img alt="text facets in open refine" src="openrefineedit2.png" width= 400px/> <img alt="transposing columns" src="openrefineedit1.png" width= 400px/> <img alt="edit history" src="openrefineedit.png" width= 400px/> <img alt="edit history" src="editopenrefine.png" width= 400px/>
+<img alt="text facets in open refine" src="openrefineedit2.png" width= 600px/> <img alt="transposing columns" src="openrefineedit1.png" width= 600px/> <img alt="edit history" src="openrefineedit.png" width= 600px/> <img alt="edit history" src="editopenrefine.png" width= 600px/>
 
 After I polished that data to be specifically what values I wanted with the correct row labels, I uploaded it to google sheets to create the chart visualizations you see below. 
 
