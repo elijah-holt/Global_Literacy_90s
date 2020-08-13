@@ -29,3 +29,16 @@ Eventually I added every region that said “euro” in it, plus the United Stat
 ### Regions I ultimately selected:
 
 <img alt="regions" src="regions.png" width= 600px/>
+
+All of this work had to be done all together because if you left the browser inactive for too long, your session would be times out. This happened to me and I had to manually re-select all the options that I had been looking at before. Once I had a functional table in the World Bank Data tool, I checked to see that I had all my years and regions that I had selected, and then exported as a .csv file. (World Bank Data also allows you to download their charts directly as jpeg, png, pdf, or SVG vector files, but they're not visually appealing.)
+
+Then when I uploaded it to google slides it was incomprehensible. So I needed to use openrefine. The format is that each value (literacy total, literacy male, and literacy female) is listed in a big chunk so that you don’t know which one is which. For example, the first row is literacy total for the arab world in 1990. The next is arab total literacy in 1991, then 1922, and so on. Then it will start the year count over again, giving you female literacy in the arab world in 1990. Basically it was organized by region, then type of data point (total, male, or female) and then year. But it was really difficult to figure out what order the literacy data was in. In other words, it came in blocks of male/female/total, but I didn’t know which black was which. Was the first one male? Or was it total? Plus, with this large of a data set and so many different variables, the analysis that I could do via google sheets would be complicated and limited. 
+
+I then used openrefine to turn that one csv file into four: one of all the total literacy values, one of all female values, one of all male values, and one that listed the gender parity index for each region by year. Then, I imported each of those to a separate sheet of google sheets, so now I had 5 sheets: three literacy rates, one of all the data, and one of the gender parity index for literacy. 
+
+### Examples of how I used OpenRefine to pare down the data:
+
+<img alt="text facets in open refine" src="openrefineedit2.png" width= 400px/> <img alt="transposing columns" src="openrefineedit1.png" width= 400px/> <img alt="edit history" src="openrefineedit.png" width= 400px/> <img alt="edit history" src="editopenrefine.png" width= 400px/>
+
+
+
