@@ -1,5 +1,5 @@
 # Global Literacy Rate in the 90s
 
-## Literacy rates per year from 1990-1999 by sex and by global region
+## Literacy Rates Per Year From 1990-1999 by Sex and Region
 
 ## Final Project for Elijah Holt
