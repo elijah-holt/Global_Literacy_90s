@@ -50,4 +50,43 @@ After I polished that data to be specifically what values I wanted with the corr
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" alt="east asia compared to latin america total literacy" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS43WxZzEocj96APvPkyPxwb-sqkEmEgdPrwvNJ8uXkpGJvOK0GrvcHEdpKTPS-d6O0rulX52J-j4Nx/pubchart?oid=936114678&amp;format=interactive"></iframe> 
 
+Prior to making these charts, I analyzed the data myself in google sheets. Here's what I found:
+
+### Male Literacy Rates
+
+Europe dominates male literacy rates, claiming the top 40 values - though it's important to note that there are 3 different opportunities (i.e. three different regions that encompass parts of Europe) for Europe to claim those spots in a way that probably overlaps many countries. But even then, if you crudely estimate and divide by 3ish, they still take the top dozen spaces in a solid monolith in the 90th percentile. Next closest values for other regions like Latin America or East Asia are not far off, in the high 80s.
+Lower values vary by region more, but are similar geographically, with South Asia, the Middle East, and parts of Africa having values ranging from 58% up - which is not that bad for the lowest literacy rates!
+The world literacy rate for males was between 81-86% throughout the 90s.
+
+### Female Literacy Ratees
+
+Again, Europe claims the top 40 spots, but this time with a greater variance, from slightly under 98% to as low as 93%.
+The decline in literacy rates is much sharper for female literacy than male without even looking at the two datasets next to each other.
+The lowest female literacy rates are in the low 30s, again all in South Asia. the Middle East and Africa follows, with a variety of order but all generally between 40-50%.
+The world female literacy rates are between 65-80% and went up a fair amount over the course of the 90s.
+
+### Literacy Gender Parity Index
+
+Central Europe and the Baltic States have the top ten highest gender parity index values from 1990 to 1999 - in that order. They're all pretty similar values though, between 0.982 and 0.988. (Still very impressive numbers!)
+Next is undeniably Latin America, as the next 8 values are Latin America in 1990 and 1993-99.
+South Asia has the lowest gender parity index out of any other region for all ten years, except in 1998 it was slightly above where the Arab World was in 1990.
+The world average lays solidly between .83 and .88 throughout the 90s.
+
+### Total Literacy Rates
+
+When considering the previous insights, it's no surprise that Europe again dominates, with total literacy rates all in the upper 90s. Next is Latin America though, all ten years between 84-89%, followed some years of East Asia intermixed with World total literacy, in the mid 70s and low 80s.
+The lowest literacy rates are 1990-1997 in South Asia, from 45-51%, but then there is a distinct jump where South Asia's literacy increases by around 5% from 1997 to 1998, and then levels off again in 1999.
+In terms of lowest literacy, South Asia is followed by Africa and the Middle East, but none of them were ever less that 50% literacy in the 90s.
+
+### Pivot Table Analysis
+
+A pivot table of World data shows that the average literacy rate of the world through the 90s was 77.76%.
+The highest average literacy in the 90s was Central Europe, but Latin America and East Asia also had average literacy rates in the 90s above 90%.
+South Asia had the lowest average literacy in the 90s at just above 50%.
+A pivot table of female literacy shows a greater range of values, from the lowest being about 37% for South Asia in the 90s. The highest, again, is Europe in the high 90s.
+Here is where East Asia and Latin America fall behind, with an average female literacy in/around the mid 50s.
+The world average is 71.52%, around 6% lower than the total literacy rate and more than 12% lower than male literacy rate.
+The lowest average male literacy rate throughout the 90s was South Asia at 62.5%. Sub-Saharan Africa wasn't much higher, at about 65%. the Arab World and North Africa had male literacy rates in the low 70s.
+The average world gender parity index of literacy rates during the 1990s was 0.83.
+The lowest average gender parity index in the 1990s was South Asia at .585.
 
