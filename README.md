@@ -50,6 +50,7 @@ After I polished that data to be specifically what values I wanted with the corr
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" alt="east asia compared to latin america total literacy" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS43WxZzEocj96APvPkyPxwb-sqkEmEgdPrwvNJ8uXkpGJvOK0GrvcHEdpKTPS-d6O0rulX52J-j4Nx/pubchart?oid=936114678&amp;format=interactive"></iframe> 
 
+
 Prior to making these charts, I analyzed the data myself in google sheets. Here's what I found:
 
 ### Male Literacy Rates
@@ -90,3 +91,6 @@ The lowest average male literacy rate throughout the 90s was South Asia at 62.5%
 The average world gender parity index of literacy rates during the 1990s was 0.83.
 The lowest average gender parity index in the 1990s was South Asia at .585.
 
+### Overall
+
+This data was super interesting because it both confirmed and denied some pre-concieved notions I had about the state of literacy in the world. I was suprised at the global literay rate in the 90s being around 77%, I expected it to be lower. I was not suprised at the disparity between male and female literay rates, though it was interesting to see that as literacy rates rose, the gender gap grew smaller. I definitely expected Europe to have high literacy, and I assume the same for North Amerca even though this data didn't have anything on North America. I wouldn't have guessed that Latin America had higher literacy rates most of the time than East Asia, but I think that is due to two things: when I think of East Asia I think of the high urban densities of China and Japan, not more rural Southeast Asian countries; when I think of Latin America I think mostly of countries in Central America, forgetting the affluence and development of countries like Argentina or Brazil. Lastly, I was surprised that South Asia was the region with, overwhelmingly, the lowest literacy rates - I would have guessed, based on how American media covers international news, that it would be Sub-Saharan Africa. The global focus seems so concerned with education in Africa, even though other regions have been signifiantly less literate. I assume that much of this dataa has changed and hhopefully literacy has gone up a lot in the psat 20 to 30 years, so I don't think it's very fair to use these former trends to inform current opinions. This is simply how it used to be. And while that is important context and history, it's also important to not discount the possibility of change - hopefully for the better. 
